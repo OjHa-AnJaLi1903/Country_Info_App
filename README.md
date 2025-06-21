@@ -57,9 +57,3 @@ Country_Info_App/
 **Anjali Ojha**  
 _B.Tech CSE | Frontend Developer_
 
----
-
-## 📄 License
-
-This project is for personal learning and academic showcase only.  
-Do not reuse, copy, or redistribute without permission.
