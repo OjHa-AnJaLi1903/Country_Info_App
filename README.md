@@ -1,5 +1,5 @@
 
-# 🌍 Country Info Web App
+# 🌍 Country Info App
 
 A lightweight, responsive web application that provides detailed information about countries using the [REST Countries API](https://restcountries.com/). Built entirely using **HTML**, **CSS**, and **Vanilla JavaScript**, this app offers a smooth user experience without any frameworks or build tools.
 
